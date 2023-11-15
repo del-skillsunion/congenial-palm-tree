@@ -1,0 +1,19 @@
+{
+  "name": "congenial-palm-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/del-skillsunion/congenial-palm-tree.git"
+  },
+  "author": "del-skillsunion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/del-skillsunion/congenial-palm-tree/issues"
+  },
+  "homepage": "https://github.com/del-skillsunion/congenial-palm-tree#readme"
+}
