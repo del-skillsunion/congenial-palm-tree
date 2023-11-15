@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/del-skillsunion/congenial-palm-tree/issues"
   },
-  "homepage": "https://github.com/del-skillsunion/congenial-palm-tree#readme"
+  "homepage": "https://github.com/del-skillsunion/congenial-palm-tree#readme",
+  "dependencies": {
+    "serverless": "^3.36.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^13.2.1"
+  }
 }
